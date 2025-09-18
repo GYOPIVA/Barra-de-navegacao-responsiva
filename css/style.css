@@ -16,6 +16,10 @@ nav {
     padding: 0px 50px 0px 100px;
 }
 
+#click{
+    display: none;
+}
+
 nav .logo {
     font-size: 33px;
     color: #fff;
@@ -114,4 +118,5 @@ nav .menu-button img {
 
 @keyframes girar{
     from{ transform: rotate(180deg);}
+
 }
